@@ -5,4 +5,4 @@ Strong is a fitness mobile app that is used to maintain workout routines and tra
 workout routine smoothly while also giving me some slight motivation during my progress. 
 
 ##### A screenshot of the app when first opening it:
-![alt text](https://usabilityengineering.github.io/ux-portfolio-jdmacam/journal1/opening.png)
+![opening image](https://github.com/UsabilityEngineering/ux-portfolio-jdmacam/blob/master/journal1/opening.png?raw=true)
