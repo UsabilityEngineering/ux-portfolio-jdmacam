@@ -1,4 +1,4 @@
-# Joe's UX eXperiences~
+# Satisfaction with Strong
 
 
 ## UX Team Project
