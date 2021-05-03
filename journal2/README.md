@@ -45,7 +45,7 @@ delete the entry is here.
 <img src="../assets/j02/deleting_item.jpg" alt="deleting_item" width="400"/>
 
 I believe that hiding the option to delete a food entry under a settings button away from the majority of the functionality for the food entry
-page makes the process of removing a food entry from the journal more difficult and takes away from the apps **error tolerance**. I would
-improve this by moving the "Delete" button to the left of the favorite icon and simplify it by using just the trash can icon. I would also get rid
-of the "3 dot" menu and put the "Report" button in its place.
+page makes the process of deleting a food entry more difficult and takes away from the apps **error tolerance**. I would improve this by moving 
+the "Delete" button to the left of the favorite icon and simplify it by using just the trashcan icon. I would also get rid of the "3 dot" menu 
+and put the "Report" button in its place.
 
