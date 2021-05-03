@@ -6,7 +6,7 @@ My goals when using this app are typically to be able to find the foods I wish t
 and efficiently and to be able to make changes to my log in case of entry mistakes. 
 
 ##### A screenshot of the app when first opening it, showing the current day's log:
-![main](assets/j02/main.jpg)
+![main](../assets/j02/main.jpg)
 
 The Usability/UX goal I want to highlight with this app is the **satisfaction** aspect. Working out, although 
 beneficial to one's health, is a stressful activity. With the sweat, soreness, and consistenly running out 
@@ -16,16 +16,16 @@ things happen:
 2. An auditory light hearted "ding" plays
 
 #### A screenshot of the food search page
-![item_search](assets/j02/item_search.jpg)
+![item_search](../assets/j02/item_search.jpg)
 
 #### A screenshot of an food items page
-![item_page](assets/j02/item_page.jpg)
+![item_page](../assets/j02/item_page.jpg)
 
 #### A screenshot of the breakfast page, one of the 4 "meal" sub-logs
-![meal_page](assets/j02/meal_page.jpg)
+![meal_page](../assets/j02/meal_page.jpg)
 
 #### A screenshot of the 3-dot menu with the option to delete the item from the log
-![deleting_item](assets/j02/deleting_item.jpg)
+![deleting_item](../assets/j02/deleting_item.jpg)
 
 These 2 things in combination have a motivating and sort of serotonin inducing effect on me while I am
 working out. Green is a color commonly associated with completion and correctness, so seeing the set
