@@ -2,12 +2,12 @@
 by Joseph Macam, 5/2/2021
 
 Lifesum is a food tracking mobile used to keep track of what foods you eat and your daily caloric intake. 
-My goals when using this app are typically to be able to find the foods I wish to add to my food log quick
+My goals when using this app are to be able to find the foods I wish to add to my food log quick
 and efficiently and to be able to make changes to my log in case of entry mistakes. 
 
-The Usability/UX goals I want to highlight with this app are the **efficiency** and **error tolernace** aspects. 
+The Usability/UX goals I want to highlight with this app are the **efficiency** and **error toleranace** aspects. 
 Using a food intake tracking app, the steps to adding an item should be quick and simple, and one shouldn't have to struggle
-with the menus to add a single food item. Thanfully, Lifesum does a pretty good job at making food entries simple and efficient.
+with the menus to add a single food item. Thankfully, Lifesum does a pretty good job at making food entries simple and efficient.
 The main landing page shows 4 meal sections for that current day. To make a food entry, you first choose the desired meal
 you want to add an entry to and tap the "+" icon. This will then take you to a food search page.
 
@@ -22,7 +22,7 @@ you have found the food you wish to add, you once again tap the "+" icon next to
 
 Here you are given options about how much of the food you would like to add based on different measurements. They can be the labeled 
 "serving size" that appears on the nutrition label, or you can choose a more specific measurement such as grams or cups. You can
-also tap the grayed out heart icon next to the food name to add it to your favoites for quicker searches. With your measurements selected,
+also tap the grayed-out heart icon next to the food name to add it to your favorites for quicker searches. With your measurements selected,
 you simply tap the "Track" button on the bottom and the food will be added to the meal you had chosen prior.
 
 #### A screenshot of an food items page
@@ -32,8 +32,8 @@ you simply tap the "Track" button on the bottom and the food will be added to th
 <img src="../assets/j02/meal_page.jpg" alt="meal_page" width="400"/>
 
 With the goal of adding food into my food journal with minimal hassle, the Lifesum app is **efficient** and helps me accomplish
-my food tracking goals. However, I believe the **error tolerance** of the app could be improved on. Specifically, making the steps
-to delete a food entry should me more obvious and not require as much UI searching.
+my food tracking goals. However, I believe the **error tolerance** of the app could be improved. Specifically, making the steps
+to delete a food entry should be more obvious and not require as much UI searching.
 
 If I accidentally added a food item to my log and wished to remove it, my first instinct is to go to the food entry's page and delete it. 
 However, at first glance, there appears to be no icon or button to delete an entry. However, on the top right of the screen, away from the 
