@@ -6,5 +6,5 @@
 
 ## UX Journal
 [Journal 1](journal1/) <br/>
-[Journal 2]() * Coming Soon * <br/>
+[Journal 2](journal2/)
 [Journal 3]() * Coming Soon * <br/>
