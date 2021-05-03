@@ -35,7 +35,7 @@ With the goal of adding food into my food journal with minimal hassle, the Lifes
 my food tracking goals. However, I believe the **error tolerance** of the app could be improved on. Specifically, making the steps
 to delete a food entry should me more obvious and not require as much UI searching.
 
-If you accidentally added a food item to you log and wished to remove it, my first instinct is to go to the food entry's page and delete it. 
+If I accidentally added a food item to my log and wished to remove it, my first instinct is to go to the food entry's page and delete it. 
 However, at first glance, there appears to be no icon or button to delete an entry. However, on the top right of the screen, away from the 
 rest of the food entry's buttons and functionality, there is a "3 dot" menu icon, and upon tapping it, it is revealed that the button to
 delete the entry is here.
