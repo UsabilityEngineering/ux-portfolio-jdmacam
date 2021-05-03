@@ -7,7 +7,7 @@ and efficiently and to be able to make changes to my log in case of entry mistak
 
 ##### A screenshot of the app when first opening it, showing the current day's log:
 <!-- ![main](../assets/j02/main.jpg) -->
-<img src="../assets/j02/main.jpg" alt="main" width="200"/>
+<img src="../assets/j02/main.jpg" alt="main" width="400"/>
 
 The Usability/UX goal I want to highlight with this app is the **satisfaction** aspect. Working out, although 
 beneficial to one's health, is a stressful activity. With the sweat, soreness, and consistenly running out 
