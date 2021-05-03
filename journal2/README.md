@@ -8,18 +8,25 @@ and efficiently and to be able to make changes to my log in case of entry mistak
 ##### A screenshot of the app when first opening it, showing the current day's log:
 <img src="../assets/j02/main.jpg" alt="main" width="400"/>
 
-The Usability/UX goal I want to highlight with this app is the **satisfaction** aspect. Working out, although 
-beneficial to one's health, is a stressful activity. With the sweat, soreness, and consistenly running out 
-of breathe, working out is taxing. However, using Strong, when one finishes a set of an exercise, 2
-things happen:
-1. The set for that exercise highlights with a green color
-2. An auditory light hearted "ding" plays
+The Usability/UX goals I want to highlight with this app are the **efficiency** and **error tolernace** aspects. 
+Using a food intake tracking app, the steps to adding an item should be quick and simple, and one shouldn't have to struggle
+with the menus to add a single food item. Thanfully, Lifesum does a pretty good job at making food entries simple and efficient.
+The main landing page shows 4 meal sections for that current day. To make a food entry, you first choose the desired meal
+you want to add an entry to and tap the "+" icon. This will then take you to a food search page.
 
 #### A screenshot of the food search page
 <img src="../assets/j02/item_search.jpg" alt="item_search" width="400"/>
 
+From the food search page, you simply enter the food you'd like to enter. You can also add the brand name for a more refined search. Once
+you have found the food you wish to add, you once again tap the "+" icon next to that food, which will then take you to that food's page.
+
 #### A screenshot of an food items page
 <img src="../assets/j02/item_page.jpg" alt="item_page" width="400"/>
+
+Here you are given options about how much of the food you would like to add based on different measurements. They can be the labeled 
+"serving size" that appears on the nutrition label, or you can choose a more specific measurement such as grams or cups. You can
+also tap the grayed out heart icon next to the food name to add it to your favoites for quicker searches. With your measurements selected,
+you simply tap the "Track" button on the bottom and the food will be added to the meal you had chosen prior.
 
 #### A screenshot of the breakfast page, one of the 4 "meal" sub-logs
 <img src="../assets/j02/meal_page.jpg" alt="meal_page" width="400"/>
