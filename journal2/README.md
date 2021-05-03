@@ -28,17 +28,22 @@ you simply tap the "Track" button on the bottom and the food will be added to th
 #### A screenshot of an food items page
 <img src="../assets/j02/item_page.jpg" alt="item_page" width="400"/>
 
-
-
 #### A screenshot of the breakfast page, one of the 4 "meal" sub-logs
 <img src="../assets/j02/meal_page.jpg" alt="meal_page" width="400"/>
 
-#### A screenshot of the 3-dot menu with the option to delete the item from the log
+With the goal of adding food into my food journal with minimal hassle, the Lifesum app is **efficient** and helps me accomplish
+my food tracking goals. However, I believe the **error tolerance** of the app could be improved on. Specifically, making the steps
+to delete a food entry should me more obvious and not require as much UI searching.
+
+If you accidentally added a food item to you log and wished to remove it, my first instinct is to go to the food entry's page and delete it. 
+However, at first glance, there appears to be no icon or button to delete an entry. However, on the top right of the screen, away from the 
+rest of the food entry's buttons and functionality, there is a "3 dot" menu icon, and upon tapping it, it is revealed that the button to
+delete the entry is here.
+
+#### Screenshots of the 3-dot menu with the option to delete the item from the log
+<img src="../assets/j02/food_entry.jpg" alt="food_entry" width="400"/>
 <img src="../assets/j02/deleting_item.jpg" alt="deleting_item" width="400"/>
 
-These 2 things in combination have a motivating and sort of serotonin inducing effect on me while I am
-working out. Green is a color commonly associated with completion and correctness, so seeing the set
-I just finished highlight green gives me a sense of finality and accomplishment in finishing an exercise.
-Secondly, the pleasanyt sounding "ding" that plays when a set is complete acts as a sort of reward for
-completing the set. It gives the same sense of accomplishment the green highliting gives, but is instead
-satisfying for our hearing sense than our visual sense.
+I believe that hiding the option to delete a food entry under a settings button away from the majority of the functionality for the food entry
+page makes the process of removing a food entry from the journal more difficult and takes away from the apps **error tolerance**
+
