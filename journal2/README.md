@@ -6,7 +6,8 @@ My goals when using this app are typically to be able to find the foods I wish t
 and efficiently and to be able to make changes to my log in case of entry mistakes. 
 
 ##### A screenshot of the app when first opening it, showing the current day's log:
-![main](../assets/j02/main.jpg)
+<!-- ![main](../assets/j02/main.jpg) -->
+<img src="../assets/j02/main.jpg" alt="main" width="200"/>
 
 The Usability/UX goal I want to highlight with this app is the **satisfaction** aspect. Working out, although 
 beneficial to one's health, is a stressful activity. With the sweat, soreness, and consistenly running out 
