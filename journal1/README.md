@@ -1,4 +1,4 @@
-# Satisfaction with Strong
+# Satisfaction and Efficiency with Strong
 by Joseph Macam, 3/7/2021
 
 Strong is a fitness mobile app that is used to maintain workout routines and track your fitness progress. 
