@@ -7,4 +7,3 @@
 ## UX Journal
 [Journal 1](journal1/) <br/>
 [Journal 2](journal2/) <br/>
-[Journal 3]() * Coming Soon * <br/>
