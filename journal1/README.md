@@ -22,4 +22,7 @@ working out. Green is a color commonly associated with completion and correctnes
 I just finished highlight green gives me a sense of finality and accomplishment in finishing an exercise.
 Secondly, the pleasant sounding "ding" that plays when a set is complete acts as a sort of reward for
 completing the set. It gives the same sense of accomplishment the green highliting gives, but is instead
-satisfying for our hearing sense than our visual sense.
+satisfying for our hearing sense than our visual sense. This color change also contributes to the **efficiency**
+of the app, as I can clearly see my progress in the workout by seeing how much of my sets are completed in 
+green. The app also tracks the previous workout session's weight and rep volume, so I am able to easily
+make adjustments based on my previous progress.
